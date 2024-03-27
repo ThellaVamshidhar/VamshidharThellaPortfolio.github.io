@@ -696,3 +696,10 @@ h3.my-profession{
 .nav li a.active {
     color: #fff; /* Change this to your desired text color */
 }
+
+.portfolio-img a img{
+    width: 15%;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    mix-blend-mode: color-dodge;
+}
