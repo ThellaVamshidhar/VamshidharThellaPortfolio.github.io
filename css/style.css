@@ -699,7 +699,7 @@ h3.my-profession{
 
 .portfolio-img a img{
     width: 15%;
-    aspect-ratio: 3/2;
-    object-fit: contain;
-    mix-blend-mode: color-dodge;
+    aspect-ratio: 3/3;
+    /* object-fit: contain; */
+    /* mix-blend-mode: color-dodge; */
 }
